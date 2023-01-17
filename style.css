@@ -1,3 +1,23 @@
 h1 {
     text-align: center;
 }
+.main-container {
+    
+}
+
+.recipe-container {
+    display: inline-block;
+    width: 33%;
+    height: auto;
+    text-align: center;
+    
+}
+
+.recipe-container a {
+    display: block;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
